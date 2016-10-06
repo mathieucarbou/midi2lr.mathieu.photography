@@ -30,37 +30,37 @@ Lightroom MIDI2LR configuration:
 
 ### Overview
 
-__Page 1: Basic__
+#### Page 1: Basic
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%201.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%201.png)
 
-__Page 2: Tone Curve / Black and White Mix__
+#### Page 2: Tone Curve / Black and White Mix
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%202.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%202.png)
 
-__Page 3: HSL__
+#### Page 3: HSL
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%203.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%203.png)
 
-__Page 4: Split Toning / Detail__
+#### Page 4: Split Toning / Detail
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%204.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%204.png)
 
-__Page 5: Lense Correction__
+#### Page 5: Lense Correction
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%205.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%205.png)
 
-__Page 6: Transform__
+#### Page 6: Transform
 
 _Comming soon!_
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%206.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%206.png)
 
-__Page 7: Effects / Camera Calibration__
+#### Page 7: Effects / Camera Calibration
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%207.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%207.png)
 
-__Common Controls__
+#### Common Controls
 
 Every page has a footer with common controls for:
 
