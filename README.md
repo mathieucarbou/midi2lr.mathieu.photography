@@ -9,7 +9,7 @@ If you find some improvements to do, or would like to contribute a new mapping, 
 
 ## TouchOSC
 
-## Installation
+### Installation
 
 Follow the TouchOSC installation on their website. You will need __TouchOSC Editor__, __TouchOSC Bridge__ running on your computer, and the __TouchOSC__ app for Android or Apple.
 
@@ -28,7 +28,7 @@ Lightroom MIDI2LR configuration:
 
 ![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
 
-## Overview
+### Overview
 
 __Page 1: Basic__
 
@@ -70,3 +70,11 @@ Every page has a footer with common controls for:
 - Paste selected settings
 - Undo / Redo
 - Refresh the MIDI controller if they are not in SYNC with Lightroom
+
+### Comments
+
+1. I do not use encoders: faders are more precise and usable on phones and tablets, but take more space and lead to a worse UI. Encoders are beautiful, but harder to use quickly.
+
+2. On some devices, you might require the use of a stylus pen!
+
+## Midi Fighter Twister
