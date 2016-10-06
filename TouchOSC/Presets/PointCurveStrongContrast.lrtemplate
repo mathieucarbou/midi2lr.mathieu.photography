@@ -1,0 +1,28 @@
+s = {
+	id = "24D0C14B-79D7-4831-A4B9-FC8FEB091AF4",
+	internalName = "PointCurveStrongContrast",
+	title = "PointCurveStrongContrast",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Strong Contrast",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				32,
+				16,
+				64,
+				50,
+				128,
+				128,
+				192,
+				202,
+				255,
+				255,
+			},
+		},
+		uuid = "B18BD982-3996-4043-BB4F-D244E42FB955",
+	},
+	version = 0,
+}

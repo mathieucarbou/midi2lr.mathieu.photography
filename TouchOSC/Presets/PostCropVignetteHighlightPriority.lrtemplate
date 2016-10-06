@@ -1,0 +1,15 @@
+s = {
+	id = "AF696A78-D337-46C0-B22E-34FC31368DF6",
+	internalName = "PostCropVignetteHighlightPriority",
+	title = "PostCropVignetteHighlightPriority",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DC1F8DAD-C144-4419-9342-4CBDCF1F8839",
+	},
+	version = 0,
+}

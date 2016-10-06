@@ -1,0 +1,15 @@
+s = {
+	id = "1BB0B480-F222-41CE-AF0E-3048D873D9C9",
+	internalName = "PostCropVignettePaintOverlay",
+	title = "PostCropVignettePaintOverlay",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteStyle = 3,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0E42394F-D81F-475D-A3FC-6E8B72FBA0D5",
+	},
+	version = 0,
+}
