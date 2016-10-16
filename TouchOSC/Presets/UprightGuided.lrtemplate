@@ -1,0 +1,15 @@
+s = {
+	id = "90ADBADD-ED78-41D6-B02E-9FF135DBBA19",
+	internalName = "UprightGuided",
+	title = "UprightGuided",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableTransform = true,
+			PerspectiveUpright = 5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "C27971E6-BD9D-47E9-B2B6-079C037A6143",
+	},
+	version = 0,
+}

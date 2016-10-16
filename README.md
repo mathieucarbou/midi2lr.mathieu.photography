@@ -28,39 +28,43 @@ Lightroom MIDI2LR configuration:
 
 1. You will need to configure MIDI2LR options in Lightroom (File menu > Plugins > Options for MIDI2LR) to match the following screenshot:
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
+![Presets Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
+
+![Shortcuts Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20shortcuts.png)
 
 ### Overview
 
 #### Page 1: Basic
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%201.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%201.png)
+![Basic](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%201.png)
 
 #### Page 2: Tone Curve / Black and White Mix
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%202.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%202.png)
+![Tone Curve / Black and White Mix](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%202.png)
 
 #### Page 3: HSL
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%203.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%203.png)
+![HSL](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%203.png)
 
-#### Page 4: Split Toning / Detail
+#### Page 4: Split Toning / Details
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%204.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%204.png)
+![Split Toning / Details](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%204.png)
 
 #### Page 5: Lense Correction
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%205.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%205.png)
+![Lense Correction](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%205.png)
 
-#### Page 6: Transform
+#### Page 6: Transform / Effects
 
-_Comming soon!_
+![Transform / Effects](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%206.png)
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%206.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%206.png)
+#### Page 7: Camera Calibration / Crop
 
-#### Page 7: Effects / Camera Calibration
+![Camera Calibration / Crop](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%207.png)
 
-![https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%207.png](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%207.png)
+#### Page 8: Local Adjustements
+
+![Local Adjustements](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/TouchOSC%20Page%208.png)
 
 #### Common Controls
 
