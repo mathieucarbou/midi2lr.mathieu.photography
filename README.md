@@ -1,4 +1,4 @@
-# Lightroom_MIDI2LR Mappings
+# MIDI2LR-Lightroom
 
 You will find in this project some mapping files to make [MIDI2LR](http://rsjaffe.github.io/MIDI2LR/) works with:
 
