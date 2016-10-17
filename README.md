@@ -17,14 +17,18 @@ Follow the TouchOSC installation on their website. You will need __TouchOSC Edit
 
 Follow the __MIDI2LR__ installation from their website.
 
-Mapping installation:
+__Mapping installation:__
 
 1. Download this project's zip file [here](https://github.com/mathieucarbou/Lightroom_MIDI2LR/archive/master.zip) and unzip it.
 2. Copy the presets in your Lightroom's Development Presets folder
 3. `MIDI2LR_TouchOSC.xml` is the file you need to load from MIDI2LR.
 4. `TouchOSC_Lightroom.touchosc` is the file you need to load from TouchOSC apps or editor. Note: this file is optimized for devices with a __resolution of 1920x1200__ (or equivalent). I tested it on Nexus 7 2013 Tablet.
 
-Lightroom MIDI2LR configuration:
+`!!! WARNING !!!`
+
+I am currently contributing some new features in the MIDI2LR project. So have a loot at the latest patched releases [here](https://github.com/mathieucarbou/MIDI2LR/releases/) if some features are missing / not yet integrated in the main project.
+
+__Lightroom MIDI2LR configuration:__
 
 1. You will need to configure MIDI2LR options in Lightroom (File menu > Plugins > Options for MIDI2LR) to match the following screenshot:
 
