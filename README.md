@@ -24,11 +24,11 @@ __Mapping installation:__
 3. `MIDI2LR_TouchOSC.xml` is the file you need to load from MIDI2LR.
 4. `TouchOSC_Lightroom.touchosc` is the file you need to load from TouchOSC apps or editor. Note: this file is optimized for devices with a __resolution of 1920x1200__ (or equivalent). I tested it on Nexus 7 2013 Tablet.
 
-`!!! WARNING !!!`
+__`!!! WARNING !!!`__
 
 I am currently contributing some new features in the MIDI2LR project. So have a loot at the latest patched releases [here](https://github.com/mathieucarbou/MIDI2LR/releases/) if some features are missing / not yet integrated in the main project.
 
-You can download my MIDI2LR build with all my latest contributed patches [here](https://github.com/mathieucarbou/MIDI2LR-Lightroom/blob/master/LRPlugin.zip?raw=true)
+__You can download my MIDI2LR build with all my latest contributed patches [here](https://github.com/mathieucarbou/MIDI2LR-Lightroom/blob/master/LRPlugin.zip?raw=true)__
 
 __Lightroom MIDI2LR configuration:__
 
