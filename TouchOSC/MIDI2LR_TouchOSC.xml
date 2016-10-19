@@ -26,9 +26,8 @@
   <setting channel="1" controller="29" command_string="Saturation"/>
   <setting channel="1" controller="3" command_string="WhiteBalanceDaylight"/>
   <setting channel="1" controller="30" command_string="ResetSaturation"/>
-  <setting channel="1" controller="31" command_string="Preset_4"/>
+  <setting channel="1" controller="31" command_string="AutoTone"/>
   <setting channel="1" controller="32" command_string="ConvertToGrayscale"/>
-  <setting channel="1" controller="33" command_string="Preset_1"/>
   <setting channel="1" controller="34" command_string="Preset_2"/>
   <setting channel="1" controller="35" command_string="Preset_3"/>
   <setting channel="1" controller="36" command_string="ResetAll"/>
