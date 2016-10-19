@@ -28,6 +28,8 @@ __Mapping installation:__
 
 I am currently contributing some new features in the MIDI2LR project. So have a loot at the latest patched releases [here](https://github.com/mathieucarbou/MIDI2LR/releases/) if some features are missing / not yet integrated in the main project.
 
+You can download my MIDI2LR build with all my latest contributed patches [here])(https://github.com/mathieucarbou/MIDI2LR-Lightroom/blob/master/LRPlugin.zip?raw=true)
+
 __Lightroom MIDI2LR configuration:__
 
 1. You will need to configure MIDI2LR options in Lightroom (File menu > Plugins > Options for MIDI2LR) to match the following screenshot:
