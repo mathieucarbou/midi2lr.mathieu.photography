@@ -36,7 +36,7 @@ __Lightroom MIDI2LR configuration:__
 
 ![Presets Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
 
-![Shortcuts Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20shortcuts.png)
+![Shortcuts Options](https://raw.githubusercontent.com/mathieucarbou/MIDI2LR-Lightroom/master/TouchOSC/Screenshots/MIDI2LR%20options%20shortcuts.png)
 
 ### Overview
 
