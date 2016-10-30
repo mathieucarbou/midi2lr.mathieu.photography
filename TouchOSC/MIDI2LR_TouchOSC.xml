@@ -122,9 +122,9 @@
   <setting channel="3" controller="12" command_string="ResetParametricDarks"/>
   <setting channel="3" controller="13" command_string="ParametricShadows"/>
   <setting channel="3" controller="14" command_string="ResetParametricShadows"/>
-  <setting channel="3" controller="15" command_string="Preset_5"/>
-  <setting channel="3" controller="16" command_string="Preset_6"/>
-  <setting channel="3" controller="17" command_string="Preset_7"/>
+  <setting channel="3" controller="15" command_string="PointCurveLinear"/>
+  <setting channel="3" controller="16" command_string="PointCurveMediumContrast"/>
+  <setting channel="3" controller="17" command_string="PointCurveStrongContrast"/>
   <setting channel="3" controller="2" command_string="ResetParametricShadowSplit"/>
   <setting channel="3" controller="3" command_string="ParametricMidtoneSplit"/>
   <setting channel="3" controller="4" command_string="ResetParametricMidtoneSplit"/>
@@ -213,7 +213,7 @@
   <setting channel="7" controller="8" command_string="ResetVignetteAmount"/>
   <setting channel="7" controller="9" command_string="VignetteMidpoint"/>
   <setting channel="8" controller="0" command_string="RevealPanelEffects"/>
-  <setting channel="8" controller="1" command_string="Preset_10"/>
+  <setting channel="8" controller="1" command_string="PostCropVignetteStyleHighlightPriority"/>
   <setting channel="8" controller="10" command_string="ResetPostCropVignetteFeather"/>
   <setting channel="8" controller="11" command_string="PostCropVignetteHighlightContrast"/>
   <setting channel="8" controller="12" command_string="ResetPostCropVignetteHighlightContrast"/>
@@ -225,8 +225,8 @@
   <setting channel="8" controller="18" command_string="ResetGrainFrequency"/>
   <setting channel="8" controller="19" command_string="Dehaze"/>
   <setting channel="8" controller="20" command_string="ResetDehaze"/>
-  <setting channel="8" controller="21" command_string="Preset_11"/>
-  <setting channel="8" controller="22" command_string="Preset_12"/>
+  <setting channel="8" controller="21" command_string="PostCropVignetteStyleColorPriority"/>
+  <setting channel="8" controller="22" command_string="PostCropVignetteStylePaintOverlay"/>
   <setting channel="8" controller="3" command_string="PostCropVignetteAmount"/>
   <setting channel="8" controller="4" command_string="ResetPostCropVignetteAmount"/>
   <setting channel="8" controller="5" command_string="PostCropVignetteMidpoint"/>
