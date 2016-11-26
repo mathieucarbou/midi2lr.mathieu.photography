@@ -5,7 +5,7 @@ You will find in this project some mapping files to make [MIDI2LR](http://rsjaff
 1. [TouchOSC](http://hexler.net/software/touchosc-android)
 2. [Midi Fighter Twister](https://store.djtechtools.com/products/midi-fighter-twister)
 
-On my [Photography Website](http://www.mathieu.photography/Photos/Portfolio/Projets/MIDi2LR-Lightroom-Mappings), you will find some help for MIDI2LR and TouchOSC.
+On my [Photography Website](http://www.mathieu.photography/Photos/Projets/MIDi2LR-Lightroom-Mappings), you will find some help for MIDI2LR and TouchOSC.
 
 If you find some improvements to do, or would like to contribute a new mapping, please open an issue or send me a PR!
 
