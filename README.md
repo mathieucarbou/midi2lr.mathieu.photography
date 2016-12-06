@@ -5,7 +5,7 @@ You will find in this project some mapping files to make [MIDI2LR](http://rsjaff
 1. [TouchOSC](http://hexler.net/software/touchosc-android)
 2. [Midi Fighter Twister](https://store.djtechtools.com/products/midi-fighter-twister)
 
-On my [Photography Website](http://www.mathieu.photography/Photos/Portfolio/Projets/MIDi2LR-Lightroom-Mappings), you will find some help for MIDI2LR and TouchOSC.
+On my [Photography Website](http://www.mathieu.photography/Photos/Projets/MIDi2LR-Lightroom-Mappings), you will find some help for MIDI2LR and TouchOSC.
 
 If you find some improvements to do, or would like to contribute a new mapping, please open an issue or send me a PR!
 
@@ -23,16 +23,7 @@ __Mapping installation:__
 2. Copy the presets in your Lightroom's Development Presets folder
 3. `MIDI2LR_TouchOSC.xml` is the file you need to load from MIDI2LR.
 4. `TouchOSC_Lightroom.touchosc` is the file you need to load from TouchOSC apps or editor. Note: this file is optimized for devices with a __resolution of 1920x1200__ (or equivalent). I tested it on Nexus 7 2013 Tablet.
-
-__`!!! WARNING !!!`__
-
-I am currently contributing some new features in the MIDI2LR project. So have a loot at the latest patched releases [here](https://github.com/mathieucarbou/MIDI2LR/releases/) if some features are missing / not yet integrated in the main project.
-
-__You can download my MIDI2LR build with all my latest contributed patches [here](https://github.com/mathieucarbou/MIDI2LR-Lightroom/blob/master/LRPlugin.zip?raw=true)__
-
-__Lightroom MIDI2LR configuration:__
-
-1. You will need to configure MIDI2LR options in Lightroom (File menu > Plugins > Options for MIDI2LR) to match the following screenshot:
+5. Configure MIDI2LR according to the screenshots (key options and preset options): `File menu > Plugins > Options for MIDI2LR`
 
 ![Presets Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
 
