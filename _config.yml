@@ -1,0 +1,8 @@
+title: MIDI2LR Lightroom
+description: Lightroom Mappings for MIDI2LR and TouchOSC
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
