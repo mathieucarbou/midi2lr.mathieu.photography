@@ -13,23 +13,13 @@ If you find some improvements to do, or would like to contribute a new mapping, 
 
 ### Installation
 
-Follow the TouchOSC installation on their website. You will need __TouchOSC Editor__, __TouchOSC Bridge__ running on your computer, and the __TouchOSC__ app for Android or Apple.
+Note: all mappings have been moved to the MIDI2LR project directly. When you download MIDI2LR, there is a folder for all controller settings and you'll find a README plus some screenshots to show you how to setup TouchOSC with MIDI2LR
 
-Follow the __MIDI2LR__ installation from their website.
-
-__Mapping installation:__
-
-1. Download this project's zip file [here](https://github.com/mathieucarbou/Lightroom_MIDI2LR/archive/master.zip) and unzip it.
-2. Copy the presets in your Lightroom's Development Presets folder
-3. `MIDI2LR_TouchOSC.xml` is the file you need to load from MIDI2LR.
-4. `TouchOSC_Lightroom.touchosc` is the file you need to load from TouchOSC apps or editor. Note: this file is optimized for devices with a __resolution of 1920x1200__ (or equivalent). I tested it on Nexus 7 2013 Tablet.
-5. Configure MIDI2LR according to the screenshots (key options and preset options): `File menu > Plugins > Options for MIDI2LR`
-
-![Presets Options](https://raw.githubusercontent.com/mathieucarbou/Lightroom_MIDI2LR/master/TouchOSC/Screenshots/MIDI2LR%20options%20presets.png)
-
-![Shortcuts Options](https://raw.githubusercontent.com/mathieucarbou/MIDI2LR-Lightroom/master/TouchOSC/Screenshots/MIDI2LR%20options%20shortcuts.png)
+Sources: https://github.com/rsjaffe/MIDI2LR/tree/master/Source/LRPlugin/Controller_Settings/TouchOSC/Mathieu%20Carbou
 
 ### Overview
+
+Here are some screenshots (not up to date) showing the virtual MIDI Controller that you will get on your tablet / phone.
 
 #### Page 1: Basic
 
@@ -81,3 +71,5 @@ Every page has a footer with common controls for:
 2. On some devices, you might require the use of a stylus pen!
 
 ## Midi Fighter Twister
+
+Coming soon!
