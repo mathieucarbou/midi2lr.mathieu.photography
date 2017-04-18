@@ -15,7 +15,7 @@ If you find some improvements to do, or would like to contribute a new mapping, 
 
 Note: all mappings have been moved to the MIDI2LR project directly. When you download MIDI2LR, there is a folder for all controller settings and you'll find a README plus some screenshots to show you how to setup TouchOSC with MIDI2LR
 
-Sources: https://github.com/rsjaffe/MIDI2LR/tree/master/Source/LRPlugin/Controller_Settings/TouchOSC/Mathieu%20Carbou
+Sources: [https://github.com/rsjaffe/MIDI2LR/tree/master/Source/LRPlugin/Controller_Settings/TouchOSC/Mathieu%20Carbou](https://github.com/rsjaffe/MIDI2LR/tree/master/Source/LRPlugin/Controller_Settings/TouchOSC/Mathieu%20Carbou)
 
 ### Overview
 
